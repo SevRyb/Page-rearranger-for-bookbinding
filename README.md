@@ -34,3 +34,5 @@ For printing I recommend you to use:\
 Firstly, you have to print all pages of **_side A_**, then all pages of **_side B_** (2 pages on the sheet).
 ## Requirements
 `PyPDF2`
+## Bookbinding
+![explanation](http://www.quantumelephant.co.uk/bookbinder/book3.png)
