@@ -36,3 +36,7 @@ Firstly, you have to print all pages of **_side A_**, then all pages of **_side 
 `PyPDF2`
 ## Bookbinding
 ![explanation](http://www.quantumelephant.co.uk/bookbinder/book3.png)
+
+Usefull links:
+
+[bookbinder](http://www.quantumelephant.co.uk/bookbinder/bookbinder.html)
